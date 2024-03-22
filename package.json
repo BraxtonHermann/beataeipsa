@@ -1,0 +1,40 @@
+{
+  "name": "beataeipsa",
+  "version": "1.0.0",
+  "description": "Connect WEB3 providers for any apps",
+  "main": "dist/index.js",
+  "files": [
+    "dist/**/*"
+  ],
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraxtonHermann/beataeipsa.git"
+  },
+  "keywords": [
+    "web3-connector",
+    "web3",
+    "web3-auth",
+    "aliquid",
+    "eius",
+    "et",
+    "eligendi",
+    "fugiat",
+    "ex",
+    "vuejs"
+  ],
+  "author": "KirkFerry",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "^3.5.1",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "ethers": "^5.7.0",
+    "vue": "^3.2.38",
+    "web3modal": "^1.9.9"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "^5.0.8",
+    "typescript": "^4.8.2"
+  },
+  "homepage": "https://github.com/BraxtonHermann/beataeipsa.git"
+}
